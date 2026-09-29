@@ -1,2 +1,2 @@
 This file is used to demonstrate a Git merge conflict.
-Student A made this change.
+Student A and Student B both made changes.
