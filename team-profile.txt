@@ -1,3 +1,5 @@
-Team Profile
-Team members: Student A and Student B
+
 Project: Student A version
+
+Project: Student B version
+student-b2
