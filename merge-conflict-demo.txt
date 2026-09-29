@@ -1,0 +1,2 @@
+This file is used to demonstrate a GitHub merge conflict.
+Student A made this change.
